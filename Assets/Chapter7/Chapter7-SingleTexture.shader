@@ -15,7 +15,7 @@ Shader "Unity Shader Book/Chapter 7/Single Texture"
 		{
 			Pass
 			{
-				Tags{"LightingMode" = "ForwardBase"}
+				Tags{"LightMode" = "ForwardBase"}
 
 				CGPROGRAM
 				#pragma vertex vert

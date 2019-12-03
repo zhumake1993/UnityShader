@@ -12,7 +12,7 @@
 
 			Pass
 			{
-				Tags{"LightingMode" = "ForwardBase"}
+				Tags{"LightMode" = "ForwardBase"}
 				Cull Front
 				ZWrite Off
 				Blend SrcAlpha OneMinusSrcAlpha
@@ -70,7 +70,7 @@
 
 			Pass
 			{
-				Tags{"LightingMode" = "ForwardBase"}
+				Tags{"LightMode" = "ForwardBase"}
 				Cull Back
 				ZWrite Off
 				Blend SrcAlpha OneMinusSrcAlpha

@@ -10,7 +10,7 @@ Shader "Unity Shader Book/Chapter 6/Half Lambert"
 	{
 		Pass
 		{
-			Tags{"LightingMode" = "ForwardBase"}
+			Tags{"LightMode" = "ForwardBase"}
 
 			CGPROGRAM
 			#pragma vertex vert

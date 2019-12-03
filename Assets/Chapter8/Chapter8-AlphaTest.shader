@@ -12,7 +12,7 @@
 
 			Pass
 			{
-				Tags{"LightingMode" = "ForwardBase"}
+				Tags{"LightMode" = "ForwardBase"}
 
 				Cull Off
 

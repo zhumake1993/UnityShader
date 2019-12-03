@@ -13,7 +13,7 @@ Shader "Unity Shader Book/Chapter 6/BlinnPhongMat"
 	{
 		Pass
 		{
-			Tags{"LightingMode" = "ForwardBase"}
+			Tags{"LightMode" = "ForwardBase"}
 
 			CGPROGRAM
 			#pragma vertex vert
